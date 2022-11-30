@@ -11,9 +11,6 @@ pip install streamlit
 
 import streamlit as st
 import pandas as pd
-from sklearn import datasets
-from sklearn.ensemble import RandomForestClassifier
-import pickle
 
 st.write("""
 # Substraction of two numbers (First_num - Second_num)
